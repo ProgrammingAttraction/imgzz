@@ -14,6 +14,7 @@ app.use(cors( {
       "http://localhost:5178",
       "http://localhost:3000",
       "https://imgzz.genzz.casino",
+      "https://imgzz.credixopay.com",
       "*",
     ], // Specify the allowed origin
   methods: ["GET", "POST", "PUT", "DELETE","PATCH","OPTIONS"], // Specify allowed methods
